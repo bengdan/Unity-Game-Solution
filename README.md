@@ -1,6 +1,5 @@
 # Unity-Game-Solution
 
-****
 
 ## Monetize
 
