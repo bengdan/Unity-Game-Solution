@@ -5,3 +5,5 @@
 ## Monetize
 
 * [Ad Manager](Monetize-Core+Max.unitypackage)
+  * Support Max
+
