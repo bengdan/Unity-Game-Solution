@@ -4,4 +4,4 @@
 
 ## Monetize
 
-* Ad Manager
+* [Ad Manager](Monetize-Core+Max.unitypackage)
